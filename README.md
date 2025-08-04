@@ -1,5 +1,5 @@
 # GuthPhaseLocking2025
-Analysis code for Guth et al., 2025: "Theta-phase locking of single neurons during human spatial memory".
+Analysis code for Guth et al., Nature Communications, 2025: "Theta-phase locking of single neurons during human spatial memory".
 This folder contains the scripts for all analyses in the paper. Different folders contain the scripts for different analyses.
 For example, the subfolder "PhaseAnalysis_20230921" contains the script for the analysis of neuronal phase locking.
 The folder "SourceData_20250129" contains all the data needed to reproduce the main figures.
